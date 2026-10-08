@@ -1,6 +1,6 @@
 'use strict';
 // Set to true once your Node server exposes POST /api/review (see backendExplain below)
-const USE_BACKEND = !location.hostname.endsWith('github.io');
+const USE_BACKEND = false;
 
 const $ = (s) => document.querySelector(s);
 const wait = (ms) => new Promise((r) => setTimeout(r, ms));
