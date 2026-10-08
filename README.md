@@ -2,7 +2,7 @@
 
 **An open-source AI code reviewer that checks AI-written code for security problems, keeps secrets away from the AI, and explains every risk in plain language.**
 
-Hacktoberfest 2026 project · [Live demo (design + scanner)](https://YOUR-USERNAME.github.io/safereview/) · [Demo video](#) <!-- replace links -->
+Hacktoberfest 2026 project · [Live demo (design + scanner)]() · [Demo video](#) <!-- replace links -->
 
 ## What the project does
 
